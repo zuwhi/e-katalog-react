@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://e-katalog-jepara.vercel.app
+
+User-agent: Googlebot
+Disallow: /private
